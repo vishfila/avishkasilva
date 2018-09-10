@@ -1,0 +1,117 @@
+body {
+	font-family: Times;
+	padding: 10px;
+	Background: #29B9E4;
+	-webkit-transition: all 1.5s ease;
+}
+
+.header {
+	background-color: #f1f1f1;
+	padding: 20px;
+	text-align: center;
+	-webkit-transition: all 1.5s ease;
+}
+
+.topnav a {
+	float: left;
+	display: block;
+	color: #22D6F6;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	-webkit-transition: all 1.5s ease;
+}
+
+.topnav {
+	overflow: hidden;
+	background-color: #000000;
+}
+
+.topnav a:hover {
+	background-color: #3655B8;
+	color:#57E232;
+}
+
+.fakeimg {
+	background-image: url(flag.png);
+	background-position: center;
+	padding: 20px;
+	width: 100%;
+}
+
+.leftcolumn {
+	float: left;
+	width: 25%;
+}
+
+.middlecolumn {
+	float: left;
+	width: 25%;
+}
+
+.middlecolumn2 {
+	float: right;
+	width: 25%;
+}
+
+.rightcolumn {
+	float: right;
+	width: 25%;
+}
+
+.rotate90 {
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+	padding: 60px;
+}
+
+.rotate270 {
+    -webkit-transform: rotate(270deg);
+    -moz-transform: rotate(270deg);
+    -o-transform: rotate(270deg);
+    -ms-transform: rotate(270deg);
+    transform: rotate(270deg);
+}
+
+.rightcolumn2 {
+	float: right;
+	width: 33%;
+}
+
+.leftcolumn2 {
+	float: left;
+	width: 33%;
+}
+
+.card {
+    background-color: white;
+    padding: 10px;
+    margin-top: 20px;:
+}
+
+.boxed {
+  border: 10px solid black ;
+}
+
+h1 {
+    text-shadow: 2px 2px 5px blue;
+}
+
+h2 {
+    text-shadow: 2px 2px 5px green;
+}
+
+.leftcolumn3 {
+	float: left;
+	width: 50%;
+	padding: 70 px
+}
+
+.rightcolumn3 {
+	float: right;
+	width: 50%;
+}
+

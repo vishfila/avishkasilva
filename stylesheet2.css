@@ -115,3 +115,8 @@ h2 {
 	width: 50%;
 }
 
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}

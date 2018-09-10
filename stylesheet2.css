@@ -114,9 +114,3 @@ h2 {
 	float: right;
 	width: 50%;
 }
-
-.row:after {
-    content: "";
-    display: table;
-    clear: both;
-}
